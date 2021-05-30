@@ -1,231 +1,97 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19041.1; Version 2004; 64bit' Language: 'es' Physical Memory: 8159 MB
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 7094 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\2020.3.1f1\Editor\Unity.exe
+D:\2020.3.1f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/yo/Documents/GitHub/Feed the Cat
+C:/Users/Mega Tecnologia/Documents/GitHub/COLOR-JAM/Feed-the-Cat
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50225
-Successfully changed project path to: C:/Users/yo/Documents/GitHub/Feed the Cat
-C:/Users/yo/Documents/GitHub/Feed the Cat
+59866
+Successfully changed project path to: C:/Users/Mega Tecnologia/Documents/GitHub/COLOR-JAM/Feed-the-Cat
+C:/Users/Mega Tecnologia/Documents/GitHub/COLOR-JAM/Feed-the-Cat
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 51.04 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 46.94 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.1f1 (77a89f25062f)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/yo/Documents/GitHub/Feed the Cat/Assets
+[Subsystems] Discovering subsystems at path D:/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Mega Tecnologia/Documents/GitHub/COLOR-JAM/Feed-the-Cat/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15dd)
     Vendor:   
-    VRAM:     2007 MB
-    Driver:   27.21.14.6627
+    VRAM:     3547 MB
+    Driver:   27.20.21003.8013
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/2020.3.1f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56420
+Mono path[0] = 'D:/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56108
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004051 seconds.
+Register platform support module: D:/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001391 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 76.67 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 62.04 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.305 seconds
+- Completed reload, in  2.113 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001531 seconds.
+Registered in 0.001565 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 56.40 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 53.03 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.577 seconds
+- Completed reload, in  1.501 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 84.6 MB.
 System memory in use after: 84.7 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2253.
-Total: 5.029500 ms (FindLiveObjects: 0.477700 ms CreateObjectMapping: 0.185000 ms MarkObjects: 4.257200 ms  DeleteObjects: 0.104000 ms)
+Total: 2.894700 ms (FindLiveObjects: 0.679600 ms CreateObjectMapping: 0.093000 ms MarkObjects: 2.028900 ms  DeleteObjects: 0.091500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scriots
-  artifactKey: Guid(b9bd8423af4398d4ebb63548b75bc686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scriots using Guid(b9bd8423af4398d4ebb63548b75bc686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc13b60545d2d3bed639bb0fc9d6a00') in 0.023294 seconds
-  Import took 0.029438 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.545124 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6374019befeac6ce670f13ba9960efb') in 0.009431 seconds
-  Import took 0.015462 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.790474 seconds.
-  path: Assets/New Folder
-  artifactKey: Guid(f4624160de62d734092d8913ba18d067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Folder using Guid(f4624160de62d734092d8913ba18d067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab2e23a4544d8f3a2cbe33b023eca22') in 0.009230 seconds
-  Import took 0.013142 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 47.249489 seconds.
-  path: Assets/Art
-  artifactKey: Guid(f4624160de62d734092d8913ba18d067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art using Guid(f4624160de62d734092d8913ba18d067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f9b524582082370a280b33276ff92f') in 0.008634 seconds
-  Import took 0.013062 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.914947 seconds.
-  path: Assets/Audio
-  artifactKey: Guid(c5bd04a6964d8f44fa6bbab799e2b266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audio using Guid(c5bd04a6964d8f44fa6bbab799e2b266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee5f81d9bd9bc4d10c1f2945c73b91c') in 0.009030 seconds
-  Import took 0.012558 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 819.720366 seconds.
-  path: Assets/Art/background.jpg
-  artifactKey: Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/background.jpg using Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f1b9f6c6817ae19a723a98a4e96fc4') in 0.158163 seconds
-  Import took 0.162439 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001342 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.050 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.3 MB.
-System memory in use after: 87.4 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2263.
-Total: 2.555500 ms (FindLiveObjects: 0.254700 ms CreateObjectMapping: 0.130600 ms MarkObjects: 2.125200 ms  DeleteObjects: 0.043400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001397 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.034 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.3 MB.
-System memory in use after: 87.5 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2267.
-Total: 2.292100 ms (FindLiveObjects: 0.200500 ms CreateObjectMapping: 0.108100 ms MarkObjects: 1.959200 ms  DeleteObjects: 0.023200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 295.682821 seconds.
-  path: Assets/Art/Image.prefab
-  artifactKey: Guid(948aa5e1b49c8884298a219d0e55799a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Image.prefab using Guid(948aa5e1b49c8884298a219d0e55799a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13aa024b536b3bd9c9b399cf1d3c70f3') in 0.049907 seconds
-  Import took 0.053558 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 132.135552 seconds.
-  path: Assets/Art/background.jpg
-  artifactKey: Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/background.jpg using Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '601f58e39200d9d58e2c30f2bf8c102e') in 0.056254 seconds
-  Import took 0.062177 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 76.929692 seconds.
-  path: Assets/Art/background.jpg
-  artifactKey: Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/background.jpg using Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ac2e58028c6704ac7d771019083511') in 0.019016 seconds
-  Import took 0.023182 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.309508 seconds.
-  path: Assets/Art/background.jpg
-  artifactKey: Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/background.jpg using Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b10a0bddd65983f0a16be72ca77ea8') in 0.018568 seconds
-  Import took 0.022813 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.451137 seconds.
-  path: Assets/Art/background.jpg
-  artifactKey: Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/background.jpg using Guid(1ddfbfbb1b8300741a382f9307906661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6116a1f2b6314c9bd87eee0b0f3c20ec') in 0.028874 seconds
-  Import took 0.033403 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.714287 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(84aa018bc402fc84e87a502d983dea5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(84aa018bc402fc84e87a502d983dea5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b92582d18945d91b9e79d6c989a111') in 0.011397 seconds
-  Import took 0.015159 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.786848 seconds.
   path: Assets/Scripts
   artifactKey: Guid(b9bd8423af4398d4ebb63548b75bc686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(b9bd8423af4398d4ebb63548b75bc686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133ff06bf74e7bbfee15d08deb2d23a7') in 0.009244 seconds
-  Import took 0.013062 seconds .
+Start importing Assets/Scripts using Guid(b9bd8423af4398d4ebb63548b75bc686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ebbaef3204c7bf5572b0c3340218b8b') in 0.018571 seconds
+  Import took 0.022848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.370798 seconds.
+  path: Assets/Scripts/Movimiento.cs
+  artifactKey: Guid(b14eb15bbfc05e941952d14728d2703a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Movimiento.cs using Guid(b14eb15bbfc05e941952d14728d2703a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54861210832f17d195142e8e8ea6aca7') in 0.119297 seconds
+  Import took 0.127724 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001454 seconds.
+Registered in 0.002034 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
@@ -234,761 +100,54 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.325 seconds
+- Completed reload, in  1.399 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.4 MB.
-System memory in use after: 87.5 MB.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.2 MB.
+System memory in use after: 84.3 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2280.
-Total: 4.106300 ms (FindLiveObjects: 0.216000 ms CreateObjectMapping: 0.079600 ms MarkObjects: 3.787900 ms  DeleteObjects: 0.020500 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2258.
+Total: 4.069300 ms (FindLiveObjects: 0.261000 ms CreateObjectMapping: 0.049700 ms MarkObjects: 3.730900 ms  DeleteObjects: 0.023800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1361.814941 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843fd1ca81cfc1706e1cdb210696cdce') in 0.023552 seconds
-  Import took 0.028130 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.844003 seconds.
-  path: Assets/Scenes/Start.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Start.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe10a1e7bbf9e2d0d026a75cee76f4d1') in 0.008377 seconds
-  Import took 0.012281 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 81.163074 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004253 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.008400 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017190 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000705 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004217 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016904 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000671 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004661 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020383 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000665 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004139 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016773 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000664 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004394 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015417 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000674 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004218 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019793 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000666 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004114 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017095 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000697 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004274 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017034 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000712 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004195 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016366 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000689 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004436 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016891 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000708 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004370 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.021420 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000706 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004376 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016806 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000697 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004359 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016146 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000656 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004095 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019080 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000675 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004190 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015038 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000721 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004775 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015571 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000668 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004202 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.018745 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000659 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004204 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015437 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000701 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004608 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016170 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000696 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004329 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.018466 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000703 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004318 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016327 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001122 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004797 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020801 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000671 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004133 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016519 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000678 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004094 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016180 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000658 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004188 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019403 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000684 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004489 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015702 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000674 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004163 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016252 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000667 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004104 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020058 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000714 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004298 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017054 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000657 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015908 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000699 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004245 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019578 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000715 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016951 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000694 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004374 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016925 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000660 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004379 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017430 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000780 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004457 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016251 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000703 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004357 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016200 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000666 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004417 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015174 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000824 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004345 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017130 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000713 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004420 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016238 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000663 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004160 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016594 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000740 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016229 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000685 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016100 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000654 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016407 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000966 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004695 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.021249 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000672 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004123 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015596 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000676 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004710 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015962 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000672 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004303 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019914 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000668 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004196 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016547 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000709 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004715 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016637 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000666 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019898 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000669 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019676 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000681 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004203 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016825 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000696 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004241 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020475 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000745 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004505 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017119 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000677 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004153 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017086 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000702 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004197 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019792 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000669 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004448 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015342 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000706 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004527 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019052 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000718 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004547 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017960 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000685 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004265 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017685 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000752 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004278 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015650 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000679 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004073 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016513 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000659 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004170 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020196 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000718 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004417 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015508 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000667 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004093 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016536 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000691 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004321 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020782 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000710 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004416 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017153 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000667 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004301 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017428 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000727 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004194 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.018353 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000727 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004437 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016934 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000686 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004259 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019329 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000708 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004263 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016327 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000730 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004356 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.015589 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000680 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004475 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.241985 seconds.
-  path: Assets/Nivel 2.unity
-  artifactKey: Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nivel 2.unity using Guid(77906c4252ba80446b90e2a88cfde9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000946 seconds
-  ERROR: Build asset version error: assets/nivel 2.unity in SourceAssetDB has modification time of '2021-05-30T17:02:41.1381979Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
-  Import took 0.004908 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 147.213095 seconds.
-  path: Assets/Prephabs
-  artifactKey: Guid(16380dc0aca9deb469865c1ededb70b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prephabs using Guid(16380dc0aca9deb469865c1ededb70b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8831e6c418b1b2fa8c165ee96e72ff0a') in 0.009167 seconds
-  Import took 0.013391 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.464731 seconds.
-  path: Assets/Prefabs
-  artifactKey: Guid(16380dc0aca9deb469865c1ededb70b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs using Guid(16380dc0aca9deb469865c1ededb70b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48841ef51a652b8e297c88298049b7cf') in 0.009043 seconds
-  Import took 0.012791 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 47.002769 seconds.
+  Time since last request: 5.188007 seconds.
   path: Assets/Scenes/Nivel 1.unity
   artifactKey: Guid(c6d320b5eb3ba254284ef439bfe1ff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Nivel 1.unity using Guid(c6d320b5eb3ba254284ef439bfe1ff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4145d4e9ca88f7066c5dcfcccba2af33') in 0.012291 seconds
-  Import took 0.016129 seconds .
+Start importing Assets/Scenes/Nivel 1.unity using Guid(c6d320b5eb3ba254284ef439bfe1ff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bf97cbc409db4df8b7b8b96068dceb') in 0.047411 seconds
+  Import took 0.050774 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.521868 seconds.
-  path: Assets/Scenes/Nivel 2.unity
-  artifactKey: Guid(f9775151391af4c42a4b0ac58d18ac39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Nivel 2.unity using Guid(f9775151391af4c42a4b0ac58d18ac39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9516316c6efe9656b4b5094abb5b554b') in 0.009201 seconds
-  Import took 0.013184 seconds .
+  Time since last request: 0.031632 seconds.
+  path: Assets/Scenes/Nivel 1.unity
+  artifactKey: Guid(c6d320b5eb3ba254284ef439bfe1ff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Nivel 1.unity using Guid(c6d320b5eb3ba254284ef439bfe1ff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bf97cbc409db4df8b7b8b96068dceb') in 0.008305 seconds
+  Import took 0.012544 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.728940 seconds.
-  path: Assets/Scenes/Nivel 3.unity
-  artifactKey: Guid(dd6972662f8f5c8429b3bdfa6e43cb57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Nivel 3.unity using Guid(dd6972662f8f5c8429b3bdfa6e43cb57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638b4c05d5d3597a2605b3ea3b9933dd') in 0.009175 seconds
-  Import took 0.012811 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.297 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.2 MB.
+System memory in use after: 84.3 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 247.034428 seconds.
-  path: Assets/Art/SueloN1.png
-  artifactKey: Guid(cb401144f1e5b4e4a911c7b00be4499d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/SueloN1.png using Guid(cb401144f1e5b4e4a911c7b00be4499d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902bfee1f600f596cd020c190a4e1b27') in 0.088256 seconds
-  Import took 0.092670 seconds .
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 3.743000 ms (FindLiveObjects: 0.893800 ms CreateObjectMapping: 0.265300 ms MarkObjects: 2.551200 ms  DeleteObjects: 0.030000 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 281.512046 seconds.
-  path: Assets/Art/Personaje.png
-  artifactKey: Guid(29141c4129a891c4292df48b25a7c33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Personaje.png using Guid(29141c4129a891c4292df48b25a7c33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbeba088f8a463e88811df78c33de1d6') in 0.023488 seconds
-  Import took 0.027325 seconds .
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
