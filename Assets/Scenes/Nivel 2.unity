@@ -373,7 +373,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Vel: 0.9
-  VelSalto: 15
+  VelSalto: 0.8
   TiempoSalto: 0
 --- !u!70 &870946172
 CapsuleCollider2D:
